@@ -1,4 +1,4 @@
-# <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> Mohammed Nihal mk
+# <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> Mohammed Nihal 
 **`Experience Architect (Frontend Dev / UI Innovator / Intelligent Interface Crafter)`**
 
 I craft modern web applications using React and TypeScript, integrating TanStack Router, Form, and Query for robust state and data management. I design responsive, accessible UIs with shadcn/ui, Tailwind CSS, and custom components. My workflow bridges UI and backend seamlessly through REST/GraphQL APIs, while keeping codebases scalable, maintainable, and performance-optimized.
