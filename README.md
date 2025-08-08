@@ -42,7 +42,7 @@ I build frontends that slap, scale, and leave the next dev nodding in respect—
 ![Snake animation Contribution Graph](https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/output/github-contribution-grid-snake-dark.svg)
 
 <h3>📫 <strong>Let's Connect!</strong></h3>
-<a href = "www.linkedin.com/in/mohammed-nihal-mk404/)">💼 Linkedin</a> &nbsp;|&nbsp;
+<a href ="www.linkedin.com/in/mohammed-nihal-mk404/">💼 Linkedin</a> &nbsp;|&nbsp;
 <a href="mailto:nihalnazz38@gmail.com">📧 Email</a> &nbsp;|&nbsp;
 <a href="https://github.com/mhdnihaal">🔗 GitHub</a> &nbsp;|&nbsp; 
 <div align="center">
